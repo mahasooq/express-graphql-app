@@ -1,7 +1,0 @@
-{
-    "env" : {
-        "MONGO_USER": "mahasooq",
-        "MONGO_PWD": "7ul0aaFbKrJMTDQ0",
-        "MONGO_DB": "graphql_event_db"
-    }
-}
